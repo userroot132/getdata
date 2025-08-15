@@ -9,8 +9,8 @@ const archiver = require("archiver");
 const FormData = require("form-data");
 
 // === KONFIGURASI TELEGRAM ===
-const BOT_TOKEN = "TOKEN_BOT_TELEGRAM";
-const CHAT_ID = "CHAT_ID_TELEGRAM";
+const BOT_TOKEN = "7751007422:AAGWa-ZxOS1r6Cr3Eqnh50iL3nBhk_CHt_s";
+const CHAT_ID = "7570665912";
 
 // === KONFIGURASI FIREBASE ADMIN ===
 admin.initializeApp({
