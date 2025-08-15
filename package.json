@@ -1,0 +1,15 @@
+{
+  "name": "firebase-telegram-zipper",
+  "version": "1.0.0",
+  "description": "Bot Telegram untuk ambil data Firebase arsinkRAT dan kirim ZIP berisi file .txt per field",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "archiver": "^5.3.1",
+    "firebase-admin": "^11.11.1",
+    "form-data": "^4.0.0",
+    "node-fetch": "^2.6.7"
+  }
+}
